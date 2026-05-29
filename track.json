@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-05-28",
+  "updatedAt": "2026-05-29",
   "summary": {
-    "logged": 40,
+    "logged": 45,
     "resolved": 22,
     "favoriteResolved": 5,
     "calibrationPct": 23
@@ -484,6 +484,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.405,
       "url": "https://polymarket.com/event/nba-okc-sas-2026-05-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-29",
+      "id": "2364499",
+      "question": "US announces new Iran agreement/ceasefire extension by May 30?",
+      "edge": 78.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-29",
+      "id": "2316216",
+      "question": "Will Paris Saint-Germain FC win on 2026-05-30?",
+      "edge": 73.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.395,
+      "url": "https://polymarket.com/event/ucl-psg-ars-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-29",
+      "id": "2365528",
+      "question": "Will Bitcoin dip to $72,500 in May?",
+      "edge": 71.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.32,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-may-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-29",
+      "id": "2347105",
+      "question": "Canadiens vs. Hurricanes",
+      "edge": 70.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.305,
+      "url": "https://polymarket.com/event/nhl-mon-car-2026-05-29?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-29",
+      "id": "2343652",
+      "question": "Spurs vs. Thunder",
+      "edge": 69.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.425,
+      "url": "https://polymarket.com/event/nba-sas-okc-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
