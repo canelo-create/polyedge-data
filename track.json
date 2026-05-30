@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-05-29",
+  "updatedAt": "2026-05-30",
   "summary": {
-    "logged": 45,
+    "logged": 50,
     "resolved": 22,
     "favoriteResolved": 5,
     "calibrationPct": 23
@@ -544,6 +544,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.425,
       "url": "https://polymarket.com/event/nba-sas-okc-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-30",
+      "id": "2346513",
+      "question": "Kansas City Royals vs. Texas Rangers",
+      "edge": 81.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.125,
+      "url": "https://polymarket.com/event/mlb-kc-tex-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-30",
+      "id": "2384191",
+      "question": "Spurs vs. Thunder: O/U 212.5",
+      "edge": 76.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.495,
+      "url": "https://polymarket.com/event/nba-sas-okc-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-30",
+      "id": "2345611",
+      "question": "LoL: FlyQuest vs Sentinels (BO5) - LCS Playoffs",
+      "edge": 72.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.835,
+      "url": "https://polymarket.com/event/lol-fly-sen-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-30",
+      "id": "2379521",
+      "question": "Roland Garros ATP: Jaime Faria vs Frances Tiafoe",
+      "edge": 69.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.695,
+      "url": "https://polymarket.com/event/atp-faria-tiafoe-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-30",
+      "id": "2169995",
+      "question": "MicroStrategy sells any Bitcoin by May 31, 2026?",
+      "edge": 67.5,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.1345,
+      "url": "https://polymarket.com/event/microstrategy-sell-any-bitcoin-in-2025?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
