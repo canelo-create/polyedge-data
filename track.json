@@ -1,11 +1,11 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-05-30",
+  "updatedAt": "2026-05-31",
   "summary": {
-    "logged": 50,
-    "resolved": 22,
-    "favoriteResolved": 5,
-    "calibrationPct": 23
+    "logged": 55,
+    "resolved": 45,
+    "favoriteResolved": 12,
+    "calibrationPct": 27
   },
   "picks": [
     {
@@ -112,9 +112,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.185,
       "url": "https://polymarket.com/event/iran-closes-its-airspace-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-20",
@@ -244,9 +244,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.125,
       "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-25",
@@ -292,9 +292,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.125,
       "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-25",
@@ -316,9 +316,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.435,
       "url": "https://polymarket.com/event/nba-sas-okc-2026-05-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Thunder",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-26",
@@ -328,9 +328,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.505,
       "url": "https://polymarket.com/event/nhl-col-las-2026-05-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Golden Knights",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-26",
@@ -340,9 +340,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.405,
       "url": "https://polymarket.com/event/nba-sas-okc-2026-05-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Thunder",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-26",
@@ -376,9 +376,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.075,
       "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-27",
@@ -388,9 +388,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.175,
       "url": "https://polymarket.com/event/lib-pen-san1-2026-05-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Yes",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-27",
@@ -400,9 +400,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.585,
       "url": "https://polymarket.com/event/nhl-car-mon-2026-05-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Hurricanes",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-27",
@@ -412,9 +412,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.415,
       "url": "https://polymarket.com/event/nba-okc-sas-2026-05-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Spurs",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-27",
@@ -424,9 +424,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.485,
       "url": "https://polymarket.com/event/mlb-phi-sd-2026-05-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Philadelphia Phillies",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-28",
@@ -436,9 +436,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.115,
       "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-28",
@@ -448,9 +448,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.495,
       "url": "https://polymarket.com/event/nba-okc-sas-2026-05-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Spurs",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-28",
@@ -460,9 +460,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.17,
       "url": "https://polymarket.com/event/cs2-shk-nip-2026-05-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "NIP",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-28",
@@ -484,9 +484,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.405,
       "url": "https://polymarket.com/event/nba-okc-sas-2026-05-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Spurs",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-29",
@@ -496,9 +496,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.115,
       "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-29",
@@ -508,9 +508,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.395,
       "url": "https://polymarket.com/event/ucl-psg-ars-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-29",
@@ -532,9 +532,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.305,
       "url": "https://polymarket.com/event/nhl-mon-car-2026-05-29?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Hurricanes",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-29",
@@ -544,9 +544,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.425,
       "url": "https://polymarket.com/event/nba-sas-okc-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Spurs",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-30",
@@ -556,9 +556,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.125,
       "url": "https://polymarket.com/event/mlb-kc-tex-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Texas Rangers",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-30",
@@ -568,9 +568,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.495,
       "url": "https://polymarket.com/event/nba-sas-okc-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Over",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-30",
@@ -580,9 +580,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.835,
       "url": "https://polymarket.com/event/lol-fly-sen-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "FlyQuest",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-30",
@@ -592,9 +592,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.695,
       "url": "https://polymarket.com/event/atp-faria-tiafoe-2026-05-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Frances Tiafoe",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-30",
@@ -604,6 +604,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.1345,
       "url": "https://polymarket.com/event/microstrategy-sell-any-bitcoin-in-2025?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-31",
+      "id": "2388636",
+      "question": "Roland Garros ATP: Casper Ruud vs Joao Fonseca",
+      "edge": 66.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.225,
+      "url": "https://polymarket.com/event/atp-ruud-fonseca-2026-05-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-31",
+      "id": "2353254",
+      "question": "San Francisco Giants vs. Colorado Rockies",
+      "edge": 64.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.975,
+      "url": "https://polymarket.com/event/mlb-sf-col-2026-05-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-31",
+      "id": "665374",
+      "question": "Will the U.S. invade Iran before 2027?",
+      "edge": 64.3,
+      "play": "MOMENTUM",
+      "impliedProb": 0.155,
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-31",
+      "id": "2353259",
+      "question": "Philadelphia Phillies vs. Los Angeles Dodgers",
+      "edge": 62.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.235,
+      "url": "https://polymarket.com/event/mlb-phi-lad-2026-05-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-05-31",
+      "id": "558934",
+      "question": "Will Spain win the 2026 FIFA World Cup?",
+      "edge": 62.5,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.1695,
+      "url": "https://polymarket.com/event/world-cup-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
