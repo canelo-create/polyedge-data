@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-05-31",
+  "updatedAt": "2026-06-01",
   "summary": {
-    "logged": 55,
+    "logged": 60,
     "resolved": 45,
     "favoriteResolved": 12,
     "calibrationPct": 27
@@ -664,6 +664,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.1695,
       "url": "https://polymarket.com/event/world-cup-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-01",
+      "id": "2364500",
+      "question": "US announces new Iran agreement/ceasefire extension by June 3?",
+      "edge": 75.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.06,
+      "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-01",
+      "id": "569368",
+      "question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
+      "edge": 71.1,
+      "play": "DEEP LIQUIDITY",
+      "impliedProb": 0.195,
+      "url": "https://polymarket.com/event/colombia-presidential-election?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-01",
+      "id": "678929",
+      "question": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election",
+      "edge": 70.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.155,
+      "url": "https://polymarket.com/event/2026-seoul-mayoral-election-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-01",
+      "id": "2334107",
+      "question": "US x Iran permanent peace deal by June 7, 2026?",
+      "edge": 68,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.065,
+      "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-01",
+      "id": "2399573",
+      "question": "Knicks vs. Spurs",
+      "edge": 67.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.365,
+      "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
