@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-01",
+  "updatedAt": "2026-06-02",
   "summary": {
-    "logged": 60,
+    "logged": 65,
     "resolved": 45,
     "favoriteResolved": 12,
     "calibrationPct": 27
@@ -724,6 +724,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.365,
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-02",
+      "id": "2394628",
+      "question": "Golden Knights vs. Hurricanes",
+      "edge": 72.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.405,
+      "url": "https://polymarket.com/event/nhl-las-car-2026-06-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-02",
+      "id": "2370663",
+      "question": "Will the price of Bitcoin be above $66,000 on June 3?",
+      "edge": 70.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.8285,
+      "url": "https://polymarket.com/event/bitcoin-above-on-june-3-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-02",
+      "id": "2270330",
+      "question": "US x Iran permanent peace deal by June 15, 2026?",
+      "edge": 68.7,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.135,
+      "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-02",
+      "id": "2399573",
+      "question": "Knicks vs. Spurs",
+      "edge": 67.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.365,
+      "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-02",
+      "id": "2369732",
+      "question": "San Diego Padres vs. Philadelphia Phillies",
+      "edge": 65.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.415,
+      "url": "https://polymarket.com/event/mlb-sd-phi-2026-06-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
