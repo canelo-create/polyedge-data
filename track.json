@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-02",
+  "updatedAt": "2026-06-03",
   "summary": {
-    "logged": 65,
+    "logged": 70,
     "resolved": 45,
     "favoriteResolved": 12,
     "calibrationPct": 27
@@ -784,6 +784,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.415,
       "url": "https://polymarket.com/event/mlb-sd-phi-2026-06-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-03",
+      "id": "2401715",
+      "question": "Spread: Spurs (-4.5)",
+      "edge": 75.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.515,
+      "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-03",
+      "id": "2316694",
+      "question": "Will Andorra win on 2026-06-04?",
+      "edge": 72.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.635,
+      "url": "https://polymarket.com/event/fif-and-lie-2026-06-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-03",
+      "id": "2386699",
+      "question": "Will the price of Bitcoin be between $68,000 and $70,000 on June 5?",
+      "edge": 70.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.103,
+      "url": "https://polymarket.com/event/bitcoin-price-on-june-5-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-03",
+      "id": "2296150",
+      "question": "Iran closes its airspace by June 15?",
+      "edge": 67.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.142,
+      "url": "https://polymarket.com/event/iran-closes-its-airspace-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-03",
+      "id": "628955",
+      "question": "Will Tom Steyer win the California Governor Election in 2026?",
+      "edge": 64.9,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.1305,
+      "url": "https://polymarket.com/event/california-governor-election-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
