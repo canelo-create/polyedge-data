@@ -1,11 +1,11 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-03",
+  "updatedAt": "2026-06-04",
   "summary": {
-    "logged": 70,
-    "resolved": 45,
-    "favoriteResolved": 12,
-    "calibrationPct": 27
+    "logged": 75,
+    "resolved": 62,
+    "favoriteResolved": 20,
+    "calibrationPct": 32
   },
   "picks": [
     {
@@ -352,9 +352,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.111,
       "url": "https://polymarket.com/event/will-trump-restart-project-freedom-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-26",
@@ -364,9 +364,9 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.059,
       "url": "https://polymarket.com/event/israel-x-iran-permanent-peace-deal-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-27",
@@ -472,9 +472,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.1555,
       "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-may-31-974?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-28",
@@ -520,9 +520,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.32,
       "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-may-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-29",
@@ -604,9 +604,9 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.1345,
       "url": "https://polymarket.com/event/microstrategy-sell-any-bitcoin-in-2025?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-05-31",
@@ -616,9 +616,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.225,
       "url": "https://polymarket.com/event/atp-ruud-fonseca-2026-05-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Joao Fonseca",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-31",
@@ -628,9 +628,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.975,
       "url": "https://polymarket.com/event/mlb-sf-col-2026-05-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "San Francisco Giants",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-31",
@@ -652,9 +652,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.235,
       "url": "https://polymarket.com/event/mlb-phi-lad-2026-05-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Los Angeles Dodgers",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-05-31",
@@ -676,9 +676,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.06,
       "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-01",
@@ -700,9 +700,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.155,
       "url": "https://polymarket.com/event/2026-seoul-mayoral-election-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Yes",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-01",
@@ -724,9 +724,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.365,
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Knicks",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-02",
@@ -736,9 +736,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.405,
       "url": "https://polymarket.com/event/nhl-las-car-2026-06-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Golden Knights",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-02",
@@ -748,9 +748,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.8285,
       "url": "https://polymarket.com/event/bitcoin-above-on-june-3-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Yes",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-02",
@@ -772,9 +772,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.365,
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Knicks",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-02",
@@ -784,9 +784,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.415,
       "url": "https://polymarket.com/event/mlb-sd-phi-2026-06-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Philadelphia Phillies",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-03",
@@ -796,9 +796,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.515,
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Knicks",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-03",
@@ -808,9 +808,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.635,
       "url": "https://polymarket.com/event/fif-and-lie-2026-06-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Yes",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-03",
@@ -844,6 +844,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.1305,
       "url": "https://polymarket.com/event/california-governor-election-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-04",
+      "id": "2358276",
+      "question": "Will Elon Musk post 160-179 tweets from May 29 to June 5, 2026?",
+      "edge": 82.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.077,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-may-29-june-5?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-04",
+      "id": "2422432",
+      "question": "Perugia: Luca Nardi vs Remy Bertola",
+      "edge": 80.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.215,
+      "url": "https://polymarket.com/event/atp-nardi-bertola-2026-06-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-04",
+      "id": "2386800",
+      "question": "Will the price of Bitcoin be above $64,000 on June 5?",
+      "edge": 77.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.388,
+      "url": "https://polymarket.com/event/bitcoin-above-on-june-5-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-04",
+      "id": "2394634",
+      "question": "Golden Knights vs. Hurricanes",
+      "edge": 73.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.415,
+      "url": "https://polymarket.com/event/nhl-las-car-2026-06-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-04",
+      "id": "2399576",
+      "question": "Knicks vs. Spurs",
+      "edge": 69.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.335,
+      "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
