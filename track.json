@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-04",
+  "updatedAt": "2026-06-05",
   "summary": {
-    "logged": 75,
+    "logged": 80,
     "resolved": 62,
     "favoriteResolved": 20,
     "calibrationPct": 32
@@ -904,6 +904,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.335,
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-05",
+      "id": "2336533",
+      "question": "Phoenix Mercury vs. PortlandFire",
+      "edge": 79.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.425,
+      "url": "https://polymarket.com/event/wnba-phx-por-2026-06-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-05",
+      "id": "947289",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "edge": 77.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.3845,
+      "url": "https://polymarket.com/event/peru-presidential-election-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-05",
+      "id": "2433519",
+      "question": "Spread: Spurs (-6.5)",
+      "edge": 76.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-05",
+      "id": "2436809",
+      "question": "Bitcoin Up or Down on June 6?",
+      "edge": 71.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.855,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-june-6-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-05",
+      "id": "2240821",
+      "question": "Will France vs. Northern Ireland end in a draw?",
+      "edge": 70.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.085,
+      "url": "https://polymarket.com/event/fif-fra-nir-2026-06-08?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
