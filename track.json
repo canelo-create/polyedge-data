@@ -1,10 +1,10 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-05",
+  "updatedAt": "2026-06-06",
   "summary": {
-    "logged": 80,
-    "resolved": 62,
-    "favoriteResolved": 20,
+    "logged": 85,
+    "resolved": 71,
+    "favoriteResolved": 23,
     "calibrationPct": 32
   },
   "picks": [
@@ -820,9 +820,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.103,
       "url": "https://polymarket.com/event/bitcoin-price-on-june-5-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-03",
@@ -856,9 +856,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.077,
       "url": "https://polymarket.com/event/elon-musk-of-tweets-may-29-june-5?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-04",
@@ -868,9 +868,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.215,
       "url": "https://polymarket.com/event/atp-nardi-bertola-2026-06-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Remy Bertola",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-04",
@@ -880,9 +880,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.388,
       "url": "https://polymarket.com/event/bitcoin-above-on-june-5-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-04",
@@ -892,9 +892,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.415,
       "url": "https://polymarket.com/event/nhl-las-car-2026-06-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Hurricanes",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-04",
@@ -904,9 +904,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.335,
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Knicks",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-05",
@@ -916,9 +916,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.425,
       "url": "https://polymarket.com/event/wnba-phx-por-2026-06-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Phoenix Mercury",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-05",
@@ -940,9 +940,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.505,
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Knicks",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-05",
@@ -952,9 +952,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.855,
       "url": "https://polymarket.com/event/bitcoin-up-or-down-on-june-6-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Up",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-05",
@@ -964,6 +964,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.085,
       "url": "https://polymarket.com/event/fif-fra-nir-2026-06-08?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-06",
+      "id": "2402155",
+      "question": "Athletics vs. Houston Astros",
+      "edge": 77.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.085,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-06",
+      "id": "2402146",
+      "question": "Baltimore Orioles vs. Toronto Blue Jays",
+      "edge": 77.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.099,
+      "url": "https://polymarket.com/event/mlb-bal-tor-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-06",
+      "id": "2407743",
+      "question": "LoL: FlyQuest vs Team Liquid (BO5) - LCS Playoffs",
+      "edge": 75.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.395,
+      "url": "https://polymarket.com/event/lol-fly-tl2-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-06",
+      "id": "2280056",
+      "question": "UFC Fight Night: Yuneisy Duben vs. Jeisla Chaves (Women's Flyweight, Prelims)",
+      "edge": 72.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.305,
+      "url": "https://polymarket.com/event/ufc-yun-jei-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-06",
+      "id": "2280102",
+      "question": "UFC Fight Night: Joanderson Brito vs. Jordan Leavitt (Featherweight, Prelims)",
+      "edge": 71.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.6,
+      "url": "https://polymarket.com/event/ufc-joa4-jor10-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
