@@ -1,11 +1,11 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-06",
+  "updatedAt": "2026-06-07",
   "summary": {
-    "logged": 85,
-    "resolved": 71,
+    "logged": 90,
+    "resolved": 76,
     "favoriteResolved": 23,
-    "calibrationPct": 32
+    "calibrationPct": 30
   },
   "picks": [
     {
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -976,9 +976,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.085,
       "url": "https://polymarket.com/event/mlb-oak-hou-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Houston Astros",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-06",
@@ -988,9 +988,9 @@
       "play": "MOMENTUM",
       "impliedProb": 0.099,
       "url": "https://polymarket.com/event/mlb-bal-tor-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Toronto Blue Jays",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-06",
@@ -1000,9 +1000,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.395,
       "url": "https://polymarket.com/event/lol-fly-tl2-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Team Liquid",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-06",
@@ -1012,9 +1012,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.305,
       "url": "https://polymarket.com/event/ufc-yun-jei-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Jeisla Chaves",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-06",
@@ -1024,6 +1024,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.6,
       "url": "https://polymarket.com/event/ufc-joa4-jor10-2026-06-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": true,
+      "outcome": "Joanderson Brito",
+      "favoriteCorrect": false
+    },
+    {
+      "date": "2026-06-07",
+      "id": "2410069",
+      "question": "Washington Nationals vs. Arizona Diamondbacks",
+      "edge": 77.3,
+      "play": "MOMENTUM",
+      "impliedProb": 0.065,
+      "url": "https://polymarket.com/event/mlb-wsh-ari-2026-06-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-07",
+      "id": "2457189",
+      "question": "Counter-Strike: G2 vs FUT Esports (BO3) - IEM Cologne Major Stage 2",
+      "edge": 77.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.375,
+      "url": "https://polymarket.com/event/cs2-g2-fut-2026-06-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-07",
+      "id": "2352106",
+      "question": "LoL: Cloud9 vs LYON (BO5) - LCS Playoffs",
+      "edge": 76.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.335,
+      "url": "https://polymarket.com/event/lol-c9-ly-2026-06-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-07",
+      "id": "2429034",
+      "question": "Iran closes its airspace by June 8?",
+      "edge": 70.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.935,
+      "url": "https://polymarket.com/event/iran-closes-its-airspace-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-07",
+      "id": "2410072",
+      "question": "Los Angeles Angels vs. Los Angeles Dodgers",
+      "edge": 68.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.495,
+      "url": "https://polymarket.com/event/mlb-laa-lad-2026-06-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
