@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-07",
+  "updatedAt": "2026-06-08",
   "summary": {
-    "logged": 90,
+    "logged": 95,
     "resolved": 76,
     "favoriteResolved": 23,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1084,6 +1084,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.495,
       "url": "https://polymarket.com/event/mlb-laa-lad-2026-06-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-08",
+      "id": "2296152",
+      "question": "Israel closes its airspace by June 15?",
+      "edge": 77.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.165,
+      "url": "https://polymarket.com/event/israel-closes-its-airspace-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-08",
+      "id": "2356469",
+      "question": "UFC Freedom 250: Justin Gaethje vs. Ilia Topuria (Lightweight, Main Card)",
+      "edge": 73.5,
+      "play": "DEEP LIQUIDITY",
+      "impliedProb": 0.195,
+      "url": "https://polymarket.com/event/ufc-jus3-ili1-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-08",
+      "id": "2457662",
+      "question": "HSBC Championships: Katie Boulter vs Leylah Fernandez",
+      "edge": 67.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.305,
+      "url": "https://polymarket.com/event/wta-boulter-fernand-2026-06-08?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-08",
+      "id": "2415863",
+      "question": "Spurs vs. Knicks",
+      "edge": 66.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.465,
+      "url": "https://polymarket.com/event/nba-sas-nyk-2026-06-08?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-08",
+      "id": "2420753",
+      "question": "US announces new Iran agreement/ceasefire extension by June 9?",
+      "edge": 65.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0245,
+      "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
