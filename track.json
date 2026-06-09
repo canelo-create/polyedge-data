@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-08",
+  "updatedAt": "2026-06-09",
   "summary": {
-    "logged": 95,
+    "logged": 100,
     "resolved": 76,
     "favoriteResolved": 23,
     "calibrationPct": 30
@@ -1144,6 +1144,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.0245,
       "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-09",
+      "id": "2394644",
+      "question": "Hurricanes vs. Golden Knights",
+      "edge": 75.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/nhl-car-las-2026-06-09?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-09",
+      "id": "2475924",
+      "question": "Will Bitcoin dip to $60,000 on June 9?",
+      "edge": 71.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.085,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-june-9?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-09",
+      "id": "2433395",
+      "question": "Spurs vs. Knicks",
+      "edge": 69.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.465,
+      "url": "https://polymarket.com/event/nba-sas-nyk-2026-06-10?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-09",
+      "id": "1897037",
+      "question": "Will Korea Republic win on 2026-06-11?",
+      "edge": 67.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.355,
+      "url": "https://polymarket.com/event/fifwc-kr-cze-2026-06-11?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-09",
+      "id": "2475211",
+      "question": "Trump announces US x Iran ceasefire over by June 12?",
+      "edge": 66.6,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0765,
+      "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-over-byptptpt-20260607232555290?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
