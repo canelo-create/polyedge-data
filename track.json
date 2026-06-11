@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-10",
+  "updatedAt": "2026-06-11",
   "summary": {
-    "logged": 105,
+    "logged": 110,
     "resolved": 87,
     "favoriteResolved": 27,
     "calibrationPct": 31
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1264,6 +1264,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.535,
       "url": "https://polymarket.com/event/fifwc-can-bih-2026-06-12?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-11",
+      "id": "2270330",
+      "question": "US x Iran permanent peace deal by June 15, 2026?",
+      "edge": 76.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.1235,
+      "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-11",
+      "id": "1897040",
+      "question": "Will Canada win on 2026-06-12?",
+      "edge": 75.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.525,
+      "url": "https://polymarket.com/event/fifwc-can-bih-2026-06-12?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-11",
+      "id": "1971905",
+      "question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "edge": 74.6,
+      "play": "MOMENTUM",
+      "impliedProb": 0.2,
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-11",
+      "id": "2444576",
+      "question": "Golden Knights vs. Hurricanes: O/U 6.5",
+      "edge": 73.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.445,
+      "url": "https://polymarket.com/event/nhl-las-car-2026-06-11?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-11",
+      "id": "2326836",
+      "question": "Korea Republic vs. Czechia: O/U 2.5",
+      "edge": 73.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.415,
+      "url": "https://polymarket.com/event/fifwc-kr-cze-2026-06-11-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
