@@ -1,10 +1,10 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-12",
+  "updatedAt": "2026-06-13",
   "summary": {
-    "logged": 115,
-    "resolved": 96,
-    "favoriteResolved": 28,
+    "logged": 120,
+    "resolved": 102,
+    "favoriteResolved": 30,
     "calibrationPct": 29
   },
   "picks": [
@@ -1204,9 +1204,9 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0765,
       "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-over-byptptpt-20260607232555290?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-10",
@@ -1228,9 +1228,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.1595,
       "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-over-byptptpt-20260607232555290?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-10",
@@ -1264,9 +1264,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.535,
       "url": "https://polymarket.com/event/fifwc-can-bih-2026-06-12?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-11",
@@ -1288,9 +1288,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.525,
       "url": "https://polymarket.com/event/fifwc-can-bih-2026-06-12?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-11",
@@ -1360,9 +1360,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.455,
       "url": "https://polymarket.com/event/fifwc-usa-par-2026-06-12?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Yes",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-12",
@@ -1372,9 +1372,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.375,
       "url": "https://polymarket.com/event/fifwc-usa-par-2026-06-12-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Over",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-12",
@@ -1384,6 +1384,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.565,
       "url": "https://polymarket.com/event/fifwc-qat-che-2026-06-13-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-13",
+      "id": "1897052",
+      "question": "Will Haiti win on 2026-06-13?",
+      "edge": 80.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.155,
+      "url": "https://polymarket.com/event/fifwc-hai-sco-2026-06-13?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-13",
+      "id": "2326781",
+      "question": "Haiti vs. Scotland: O/U 2.5",
+      "edge": 78.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.595,
+      "url": "https://polymarket.com/event/fifwc-hai-sco-2026-06-13-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-13",
+      "id": "1897060",
+      "question": "Will Curaçao win on 2026-06-14?",
+      "edge": 76.4,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0235,
+      "url": "https://polymarket.com/event/fifwc-ger-kor-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-13",
+      "id": "1897057",
+      "question": "Will Türkiye win on 2026-06-14?",
+      "edge": 73.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.575,
+      "url": "https://polymarket.com/event/fifwc-aus-tur-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-13",
+      "id": "2470192",
+      "question": "LoL: Team Liquid vs Cloud9 (BO5) - LCS Playoffs",
+      "edge": 72.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.68,
+      "url": "https://polymarket.com/event/lol-tl2-c9-2026-06-13?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
