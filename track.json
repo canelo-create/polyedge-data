@@ -1,11 +1,11 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-14",
+  "updatedAt": "2026-06-15",
   "summary": {
-    "logged": 125,
-    "resolved": 102,
-    "favoriteResolved": 30,
-    "calibrationPct": 29
+    "logged": 130,
+    "resolved": 115,
+    "favoriteResolved": 35,
+    "calibrationPct": 30
   },
   "picks": [
     {
@@ -1108,9 +1108,9 @@
       "play": "DEEP LIQUIDITY",
       "impliedProb": 0.195,
       "url": "https://polymarket.com/event/ufc-jus3-ili1-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Justin Gaethje",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-08",
@@ -1348,9 +1348,9 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.059,
       "url": "https://polymarket.com/event/fifwc-qat-che-2026-06-13?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-12",
@@ -1384,9 +1384,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.565,
       "url": "https://polymarket.com/event/fifwc-qat-che-2026-06-13-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Qatar",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-13",
@@ -1396,9 +1396,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.155,
       "url": "https://polymarket.com/event/fifwc-hai-sco-2026-06-13?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-13",
@@ -1408,9 +1408,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.595,
       "url": "https://polymarket.com/event/fifwc-hai-sco-2026-06-13-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Under",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-13",
@@ -1420,9 +1420,9 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
       "url": "https://polymarket.com/event/fifwc-ger-kor-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-13",
@@ -1432,9 +1432,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
       "url": "https://polymarket.com/event/fifwc-aus-tur-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-13",
@@ -1444,9 +1444,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.68,
       "url": "https://polymarket.com/event/lol-tl2-c9-2026-06-13?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Team Liquid",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-14",
@@ -1456,9 +1456,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.195,
       "url": "https://polymarket.com/event/ufc-der-jos52-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Josh Hokit",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-14",
@@ -1468,9 +1468,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.205,
       "url": "https://polymarket.com/event/ufc-jus3-ili1-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Justin Gaethje",
+      "favoriteCorrect": false
     },
     {
       "date": "2026-06-14",
@@ -1480,9 +1480,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.107,
       "url": "https://polymarket.com/event/iran-closes-its-airspace-byptptpt-20260609184135829?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "No",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-14",
@@ -1492,9 +1492,9 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.505,
       "url": "https://polymarket.com/event/fifwc-swe-tun-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
-      "resolved": false,
-      "outcome": null,
-      "favoriteCorrect": null
+      "resolved": true,
+      "outcome": "Yes",
+      "favoriteCorrect": true
     },
     {
       "date": "2026-06-14",
@@ -1504,6 +1504,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.505,
       "url": "https://polymarket.com/event/ufc-cir-ale30-2026-06-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": true,
+      "outcome": "Ciryl Gane",
+      "favoriteCorrect": false
+    },
+    {
+      "date": "2026-06-15",
+      "id": "1897081",
+      "question": "Will New Zealand win on 2026-06-15?",
+      "edge": 81.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.185,
+      "url": "https://polymarket.com/event/fifwc-irn-nzl-2026-06-15?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-15",
+      "id": "1897082",
+      "question": "Will France win on 2026-06-16?",
+      "edge": 70.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.665,
+      "url": "https://polymarket.com/event/fifwc-fra-sen-2026-06-16?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-15",
+      "id": "2326620",
+      "question": "Spread: Portugal (-1.5)",
+      "edge": 70.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.515,
+      "url": "https://polymarket.com/event/fifwc-prt-cdr-2026-06-17-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-15",
+      "id": "1971905",
+      "question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "edge": 63.1,
+      "play": "DEEP LIQUIDITY",
+      "impliedProb": 0.22,
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-15",
+      "id": "2433491",
+      "question": "Will Aurora reach the Grand Final at IEM Cologne Major 2026?",
+      "edge": 62.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.275,
+      "url": "https://polymarket.com/event/iem-cologne-major-2026-reach-the-grand-final?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
