@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-15",
+  "updatedAt": "2026-06-16",
   "summary": {
-    "logged": 130,
+    "logged": 135,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Cura\u00e7ao win on 2026-06-14?",
+      "question": "Will Curaçao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will T\u00fcrkiye win on 2026-06-14?",
+      "question": "Will Türkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -1564,6 +1564,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.275,
       "url": "https://polymarket.com/event/iem-cologne-major-2026-reach-the-grand-final?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-16",
+      "id": "1897089",
+      "question": "Will Argentina vs. Algeria end in a draw?",
+      "edge": 81,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.205,
+      "url": "https://polymarket.com/event/fifwc-arg-alg-2026-06-16?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-16",
+      "id": "1897092",
+      "question": "Will Austria vs. Jordan end in a draw?",
+      "edge": 81,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.185,
+      "url": "https://polymarket.com/event/fifwc-aut-jor-2026-06-17?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-16",
+      "id": "1897095",
+      "question": "Will Portugal vs. DR Congo end in a draw?",
+      "edge": 79.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.165,
+      "url": "https://polymarket.com/event/fifwc-prt-cdr-2026-06-17?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-16",
+      "id": "2326637",
+      "question": "Austria vs. Jordan: O/U 2.5",
+      "edge": 76.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.535,
+      "url": "https://polymarket.com/event/fifwc-aut-jor-2026-06-17-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-16",
+      "id": "2326648",
+      "question": "Argentina vs. Algeria: O/U 2.5",
+      "edge": 75,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.485,
+      "url": "https://polymarket.com/event/fifwc-arg-alg-2026-06-16-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
