@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-16",
+  "updatedAt": "2026-06-17",
   "summary": {
-    "logged": 135,
+    "logged": 140,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -1624,6 +1624,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.485,
       "url": "https://polymarket.com/event/fifwc-arg-alg-2026-06-16-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-17",
+      "id": "2557368",
+      "question": "Will the text of the US-Iran agreement be released by June 16? ",
+      "edge": 83.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0535,
+      "url": "https://polymarket.com/event/us-iran-deal-text-released-byptptpt-20260615224044572?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-17",
+      "id": "2505826",
+      "question": "Tampa Bay Rays vs. Los Angeles Dodgers",
+      "edge": 81.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.185,
+      "url": "https://polymarket.com/event/mlb-tb-lad-2026-06-17?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-17",
+      "id": "2326593",
+      "question": "Uzbekistan vs. Colombia: O/U 2.5",
+      "edge": 76.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.515,
+      "url": "https://polymarket.com/event/fifwc-uzb-col-2026-06-17-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-17",
+      "id": "1897106",
+      "question": "Will Czechia win on 2026-06-18?",
+      "edge": 75.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.525,
+      "url": "https://polymarket.com/event/fifwc-cze-rsa-2026-06-18?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-17",
+      "id": "2326582",
+      "question": "Czechia vs. South Africa: O/U 2.5",
+      "edge": 74.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.455,
+      "url": "https://polymarket.com/event/fifwc-cze-rsa-2026-06-18-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
