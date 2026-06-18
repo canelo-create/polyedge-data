@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-17",
+  "updatedAt": "2026-06-18",
   "summary": {
-    "logged": 140,
+    "logged": 145,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Cura\u00e7ao win on 2026-06-14?",
+      "question": "Will Curaçao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will T\u00fcrkiye win on 2026-06-14?",
+      "question": "Will Türkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -1684,6 +1684,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.455,
       "url": "https://polymarket.com/event/fifwc-cze-rsa-2026-06-18-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-18",
+      "id": "2511144",
+      "question": "US x Iran diplomatic meeting by June 19, 2026?",
+      "edge": 79.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.427,
+      "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-329?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-18",
+      "id": "2517168",
+      "question": "Baltimore Orioles vs. Seattle Mariners",
+      "edge": 79,
+      "play": "MOMENTUM",
+      "impliedProb": 0.095,
+      "url": "https://polymarket.com/event/mlb-bal-sea-2026-06-18?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-18",
+      "id": "2326553",
+      "question": "Mexico vs. Korea Republic: Both Teams to Score",
+      "edge": 78,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.515,
+      "url": "https://polymarket.com/event/fifwc-mex-kr-2026-06-18-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-18",
+      "id": "1897115",
+      "question": "Will Mexico win on 2026-06-18?",
+      "edge": 74.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.475,
+      "url": "https://polymarket.com/event/fifwc-mex-kr-2026-06-18?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-06-18",
+      "id": "1897123",
+      "question": "Will Morocco win on 2026-06-19?",
+      "edge": 74.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.555,
+      "url": "https://polymarket.com/event/fifwc-sco-mar-2026-06-19?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
