@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-06-18",
+  "updatedAt": "2026-07-13",
   "summary": {
-    "logged": 145,
+    "logged": 150,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -1744,6 +1744,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.555,
       "url": "https://polymarket.com/event/fifwc-sco-mar-2026-06-19?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-13",
+      "id": "2880275",
+      "question": "Spread: France (-1.5)",
+      "edge": 81.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.19625,
+      "url": "https://polymarket.com/event/fifwc-fra-esp-2026-07-14-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-13",
+      "id": "2880020",
+      "question": "Exact Score: France 1 - 1 Spain?",
+      "edge": 79.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.145,
+      "url": "https://polymarket.com/event/fifwc-fra-esp-2026-07-14-exact-score?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-13",
+      "id": "2891653",
+      "question": "Spread: England (-1.5)",
+      "edge": 77.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.15375,
+      "url": "https://polymarket.com/event/fifwc-eng-arg-2026-07-15-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-13",
+      "id": "2853044",
+      "question": "Will Iran announce withdrawal from MOU negotiations by July 17?",
+      "edge": 76.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.196,
+      "url": "https://polymarket.com/event/iran-announces-withdrawal-from-mou-negotiations-byptptpt-20260622191732319?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-13",
+      "id": "2891215",
+      "question": "Exact Score: England 0 - 0 Argentina?",
+      "edge": 76,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/fifwc-eng-arg-2026-07-15-exact-score?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
