@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-15",
+  "updatedAt": "2026-07-16",
   "summary": {
-    "logged": 160,
+    "logged": 165,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -1924,6 +1924,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.085,
       "url": "https://polymarket.com/event/2026-the-open-championship-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-16",
+      "id": "2901882",
+      "question": "ODI Series West Indies vs. New Zealand: West Indies vs New Zealand",
+      "edge": 78.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.06,
+      "url": "https://polymarket.com/event/crint-wst2-nzl7-2026-07-16?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-16",
+      "id": "2942064",
+      "question": "Spread: Spain (-1.5)",
+      "edge": 77.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.205,
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-16",
+      "id": "2942017",
+      "question": "Exact Score: Spain 2 - 1 Argentina?",
+      "edge": 74.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.095,
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-exact-score?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-16",
+      "id": "2941995",
+      "question": "Exact Score: France 3 - 1 England?",
+      "edge": 74.2,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.065,
+      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-exact-score?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-16",
+      "id": "2942117",
+      "question": "France vs. England: O/U 6.5",
+      "edge": 74,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.055,
+      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-more-markets?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
