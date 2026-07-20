@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-19",
+  "updatedAt": "2026-07-20",
   "summary": {
-    "logged": 180,
+    "logged": 185,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2164,6 +2164,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.095,
       "url": "https://polymarket.com/event/will-china-invade-taiwan-by-december-31-2027?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-20",
+      "id": "608565",
+      "question": "Will Lionel Messi win the 2026 Ballon d'Or?",
+      "edge": 75.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.047,
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-20",
+      "id": "2951720",
+      "question": "New York Liberty vs. Dallas Wings",
+      "edge": 72.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.655,
+      "url": "https://polymarket.com/event/wnba-nyl-dal-2026-07-20?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-20",
+      "id": "2977246",
+      "question": "Israel closes its airspace by July 24?",
+      "edge": 66.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.095,
+      "url": "https://polymarket.com/event/israel-closes-its-airspace-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-20",
+      "id": "2922143",
+      "question": "San Diego Padres vs. Atlanta Braves",
+      "edge": 66.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.465,
+      "url": "https://polymarket.com/event/mlb-sd-atl-2026-07-20?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-20",
+      "id": "2937524",
+      "question": "US x Iran Effective Ceasefire by July 24?",
+      "edge": 66.1,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.125,
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
