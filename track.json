@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-22",
+  "updatedAt": "2026-07-23",
   "summary": {
-    "logged": 190,
+    "logged": 195,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -2284,6 +2284,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.325,
       "url": "https://polymarket.com/event/mlb-cin-sea-2026-07-22?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-23",
+      "id": "2916649",
+      "question": "Will Elon Musk post 160-179 tweets from July 17 to July 24, 2026?",
+      "edge": 79.6,
+      "play": "MOMENTUM",
+      "impliedProb": 0.075,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-17-july-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-23",
+      "id": "2975225",
+      "question": "Iran full airspace closure by July 24?",
+      "edge": 72.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.12,
+      "url": "https://polymarket.com/event/iran-full-airspace-closure-byptptpt-20260625195253028?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-23",
+      "id": "3024842",
+      "question": "Winnipeg: Johannus Monday vs Yuta Shimizu",
+      "edge": 69.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.31,
+      "url": "https://polymarket.com/event/atp-monday-shimizu-2026-07-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-23",
+      "id": "2243306",
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "edge": 65.6,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.085,
+      "url": "https://polymarket.com/event/nba-2027-champion?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-23",
+      "id": "2252243",
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "edge": 64.1,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0405,
+      "url": "https://polymarket.com/event/fed-decision-in-september-762?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
