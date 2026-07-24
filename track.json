@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-23",
+  "updatedAt": "2026-07-24",
   "summary": {
-    "logged": 195,
+    "logged": 200,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Cura\u00e7ao win on 2026-06-14?",
+      "question": "Will Curaçao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will T\u00fcrkiye win on 2026-06-14?",
+      "question": "Will Türkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2344,6 +2344,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0405,
       "url": "https://polymarket.com/event/fed-decision-in-september-762?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-24",
+      "id": "2963875",
+      "question": "Counter-Strike: Sharks vs FURIA (BO3) - BLAST Bounty Qualifier",
+      "edge": 79.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.385,
+      "url": "https://polymarket.com/event/cs2-shk-furia-2026-07-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-24",
+      "id": "2952472",
+      "question": "Israel x Iran ceasefire continues through July 25?",
+      "edge": 70.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.835,
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-24",
+      "id": "2971960",
+      "question": "Colorado Rockies vs. Milwaukee Brewers",
+      "edge": 68,
+      "play": "MOMENTUM",
+      "impliedProb": 0.735,
+      "url": "https://polymarket.com/event/mlb-col-mil-2026-07-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-24",
+      "id": "2243308",
+      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+      "edge": 67.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.1305,
+      "url": "https://polymarket.com/event/nba-2027-champion?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-24",
+      "id": "2971974",
+      "question": "Los Angeles Dodgers vs. New York Mets",
+      "edge": 66.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.535,
+      "url": "https://polymarket.com/event/mlb-lad-nym-2026-07-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
