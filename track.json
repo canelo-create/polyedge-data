@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-24",
+  "updatedAt": "2026-07-25",
   "summary": {
-    "logged": 200,
+    "logged": 205,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -2404,6 +2404,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.535,
       "url": "https://polymarket.com/event/mlb-lad-nym-2026-07-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-25",
+      "id": "2884706",
+      "question": "LoL: FlyQuest vs LYON (BO3) - LCS Regular Season",
+      "edge": 87.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.15,
+      "url": "https://polymarket.com/event/lol-fly-ly-2026-07-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-25",
+      "id": "2884951",
+      "question": "UFC Fight Night: Wellington Turman vs. Islam Dulatov (Welterweight, Main Card)",
+      "edge": 83.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.485,
+      "url": "https://polymarket.com/event/ufc-wel-isl2-2026-07-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-25",
+      "id": "2987879",
+      "question": "Arizona Diamondbacks vs. Washington Nationals",
+      "edge": 81.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.205,
+      "url": "https://polymarket.com/event/mlb-ari-wsh-2026-07-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-25",
+      "id": "2985918",
+      "question": "LoL: LOUD vs paiN Gaming (BO3) - CBLOL Regular Season",
+      "edge": 73.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.765,
+      "url": "https://polymarket.com/event/lol-lll-png1-2026-07-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-25",
+      "id": "2987139",
+      "question": "Valorant: Sentinels vs LOUD (BO3) - VCT Americas Stage 2 Group Omega",
+      "edge": 72.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.565,
+      "url": "https://polymarket.com/event/val-sen-loud-2026-07-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
