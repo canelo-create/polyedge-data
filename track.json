@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-25",
+  "updatedAt": "2026-07-26",
   "summary": {
-    "logged": 205,
+    "logged": 210,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -2464,6 +2464,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.565,
       "url": "https://polymarket.com/event/val-sen-loud-2026-07-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-26",
+      "id": "2898071",
+      "question": "LoL: Team Liquid vs Cloud9 - Game 2 Winner",
+      "edge": 76,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.585,
+      "url": "https://polymarket.com/event/lol-tl2-c9-2026-07-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-26",
+      "id": "3000571",
+      "question": "Seattle Mariners vs. Texas Rangers",
+      "edge": 66.6,
+      "play": "MOMENTUM",
+      "impliedProb": 0.875,
+      "url": "https://polymarket.com/event/mlb-sea-tex-2026-07-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-26",
+      "id": "3000573",
+      "question": "Los Angeles Angels vs. San Francisco Giants",
+      "edge": 66,
+      "play": "MOMENTUM",
+      "impliedProb": 0.855,
+      "url": "https://polymarket.com/event/mlb-laa-sf-2026-07-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-26",
+      "id": "2910436",
+      "question": "US announces end of Iranian blockade by July 31, 2026?",
+      "edge": 65.8,
+      "play": "STABLE",
+      "impliedProb": 0.22,
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-26",
+      "id": "3000575",
+      "question": "New York Yankees vs. Philadelphia Phillies",
+      "edge": 64.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.355,
+      "url": "https://polymarket.com/event/mlb-nyy-phi-2026-07-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
