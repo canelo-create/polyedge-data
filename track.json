@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-26",
+  "updatedAt": "2026-07-27",
   "summary": {
-    "logged": 210,
+    "logged": 215,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2524,6 +2524,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.355,
       "url": "https://polymarket.com/event/mlb-nyy-phi-2026-07-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-27",
+      "id": "2968538",
+      "question": "Will Elon Musk post 300-319 tweets from July 21 to July 28, 2026?",
+      "edge": 77.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.1955,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-21-july-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-27",
+      "id": "3096158",
+      "question": "The Memphis Classic: Katie Volynets vs Viktorija Golubic",
+      "edge": 75,
+      "play": "MOMENTUM",
+      "impliedProb": 0.195,
+      "url": "https://polymarket.com/event/wta-volynet-golubic-2026-07-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-27",
+      "id": "3109557",
+      "question": "Mubadala Citi DC Open: Kei Nishikori vs Juncheng Shang",
+      "edge": 71.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.48,
+      "url": "https://polymarket.com/event/atp-nishiko-shang-2026-07-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-27",
+      "id": "3093935",
+      "question": "LoL: paiN Gaming Academy vs Ei Nerd Esports (BO1) - Circuito Desafiante Regular Season",
+      "edge": 68.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.775,
+      "url": "https://polymarket.com/event/lol-pnga-nerd-2026-07-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-27",
+      "id": "1654959",
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "edge": 68.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.2695,
+      "url": "https://polymarket.com/event/fed-decision-in-july-181?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
