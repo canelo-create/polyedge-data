@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-07-28",
   "summary": {
-    "logged": 215,
+    "logged": 220,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Cura\u00e7ao win on 2026-06-14?",
+      "question": "Will Curaçao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will T\u00fcrkiye win on 2026-06-14?",
+      "question": "Will Türkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2584,6 +2584,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.2695,
       "url": "https://polymarket.com/event/fed-decision-in-july-181?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-28",
+      "id": "3120861",
+      "question": "Mubadala Citi DC Open: Martin Damm vs Ben Shelton",
+      "edge": 81.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.105,
+      "url": "https://polymarket.com/event/atp-damm-shelton-2026-07-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-28",
+      "id": "3120829",
+      "question": "Mubadala Citi DC Open: Trevor Svajda vs Jakub Mensik",
+      "edge": 78.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/atp-svajd-mensik-2026-07-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-28",
+      "id": "2936383",
+      "question": "Will CA Rosario Central win on 2026-07-28?",
+      "edge": 77.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.475,
+      "url": "https://polymarket.com/event/arg-ros-rac-2026-07-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-28",
+      "id": "3142877",
+      "question": "Spread: Los Angeles Dodgers (-1.5)",
+      "edge": 74.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.525,
+      "url": "https://polymarket.com/event/mlb-sea-lad-2026-07-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-28",
+      "id": "3001134",
+      "question": "Counter-Strike: Imperial vs BESTIA (BO3) - StarLadder StarSeries South American Qualifier Playoffs",
+      "edge": 73.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.635,
+      "url": "https://polymarket.com/event/cs2-imp11-bst-2026-07-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
