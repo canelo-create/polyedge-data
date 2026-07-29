@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-28",
+  "updatedAt": "2026-07-29",
   "summary": {
-    "logged": 220,
+    "logged": 225,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2644,6 +2644,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.635,
       "url": "https://polymarket.com/event/cs2-imp11-bst-2026-07-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-29",
+      "id": "2937525",
+      "question": "US x Iran Effective Ceasefire by July 31?",
+      "edge": 82.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.205,
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-29",
+      "id": "3054121",
+      "question": "Colorado Rockies vs. San Diego Padres",
+      "edge": 81.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/mlb-col-sd-2026-07-29?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-29",
+      "id": "3010120",
+      "question": "Will Elon Musk post 200-219 tweets from July 24 to July 31, 2026?",
+      "edge": 78.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0245,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-24-july-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-29",
+      "id": "2673621",
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "edge": 74.7,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.08,
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-29",
+      "id": "3054119",
+      "question": "Milwaukee Brewers vs. San Francisco Giants",
+      "edge": 70.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.345,
+      "url": "https://polymarket.com/event/mlb-mil-sf-2026-07-29?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
