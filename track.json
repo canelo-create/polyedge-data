@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-29",
+  "updatedAt": "2026-07-30",
   "summary": {
-    "logged": 225,
+    "logged": 230,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -2704,6 +2704,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.345,
       "url": "https://polymarket.com/event/mlb-mil-sf-2026-07-29?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-30",
+      "id": "3080762",
+      "question": "New York Yankees vs. Chicago White Sox",
+      "edge": 82.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.195,
+      "url": "https://polymarket.com/event/mlb-nyy-cws-2026-07-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-30",
+      "id": "2673621",
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "edge": 74.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.333,
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-30",
+      "id": "2734313",
+      "question": "Will Donald Trump publicly insult Vladimir Putin by July 31, 2026?",
+      "edge": 73.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.772,
+      "url": "https://polymarket.com/event/who-will-trump-publicly-insult-by-july-31-20260626210612709?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-30",
+      "id": "3010127",
+      "question": "Will Elon Musk post 240-259 tweets from July 24 to July 31, 2026?",
+      "edge": 72.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.497,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-24-july-31?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-07-30",
+      "id": "3128584",
+      "question": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?",
+      "edge": 72.2,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.055,
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-july-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
