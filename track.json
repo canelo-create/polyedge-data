@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
   "summary": {
-    "logged": 235,
+    "logged": 240,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2795,7 +2795,7 @@
     {
       "date": "2026-07-31",
       "id": "2990291",
-      "question": "Will Atlético San Luis win on 2026-07-31?",
+      "question": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
       "edge": 75.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.435,
@@ -2823,6 +2823,66 @@
       "edge": 71.3,
       "play": "CLOSING SOON",
       "impliedProb": 0.68,
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-01",
+      "id": "3155072",
+      "question": "Minnesota Twins vs. Seattle Mariners",
+      "edge": 81.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.155,
+      "url": "https://polymarket.com/event/mlb-min-sea-2026-08-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-01",
+      "id": "3155063",
+      "question": "St. Louis Cardinals vs. Toronto Blue Jays",
+      "edge": 79,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0245,
+      "url": "https://polymarket.com/event/mlb-stl-tor-2026-08-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-01",
+      "id": "3126614",
+      "question": "LoL: Cloud9 vs Dignitas (BO3) - LCS Regular Season",
+      "edge": 78.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.706,
+      "url": "https://polymarket.com/event/lol-c9-dig-2026-08-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-01",
+      "id": "3242346",
+      "question": "Spread: Detroit Tigers (-1.5)",
+      "edge": 78,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/mlb-det-oak-2026-08-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-01",
+      "id": "3128787",
+      "question": "Israel x Iran ceasefire continues through August 2?",
+      "edge": 70.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.715,
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
