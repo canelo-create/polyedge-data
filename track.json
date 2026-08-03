@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-02",
+  "updatedAt": "2026-08-03",
   "summary": {
-    "logged": 245,
+    "logged": 250,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -2944,6 +2944,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.145,
       "url": "https://polymarket.com/event/israel-closes-its-airspace-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-03",
+      "id": "3279523",
+      "question": "National Bank Open: Nicolas Mejia vs Martin Landaluce",
+      "edge": 81.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.135,
+      "url": "https://polymarket.com/event/atp-mejia-landalu-2026-08-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-03",
+      "id": "3254076",
+      "question": "National Bank Open: Janice Tjen vs Liudmila Samsonova",
+      "edge": 81.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.175,
+      "url": "https://polymarket.com/event/wta-tjen-samsono-2026-08-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-03",
+      "id": "3095840",
+      "question": "Will Elon Musk post 200-219 tweets from July 28 to August 4, 2026?",
+      "edge": 81.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.068,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-28-august-4?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-03",
+      "id": "3254044",
+      "question": "Canadian Open: Alexis Galarneau vs Vit Kopriva",
+      "edge": 81.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.145,
+      "url": "https://polymarket.com/event/atp-galarne-kopriva-2026-08-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-03",
+      "id": "3279623",
+      "question": "National Bank Open: Lois Boisson vs Antonia Ruzic",
+      "edge": 81,
+      "play": "MOMENTUM",
+      "impliedProb": 0.075,
+      "url": "https://polymarket.com/event/wta-boisson-ruzic-2026-08-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
