@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-03",
+  "updatedAt": "2026-08-05",
   "summary": {
-    "logged": 250,
+    "logged": 255,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2795,7 +2795,7 @@
     {
       "date": "2026-07-31",
       "id": "2990291",
-      "question": "Will Atlético San Luis win on 2026-07-31?",
+      "question": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
       "edge": 75.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.435,
@@ -3004,6 +3004,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.075,
       "url": "https://polymarket.com/event/wta-boisson-ruzic-2026-08-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-05",
+      "id": "3145669",
+      "question": "Will Elon Musk post 160-179 tweets from July 31 to August 7, 2026?",
+      "edge": 77,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.2195,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-31-august-7?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-05",
+      "id": "3249169",
+      "question": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+      "edge": 73.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.465,
+      "url": "https://polymarket.com/event/lol-dk-t1-2026-08-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-05",
+      "id": "1163699",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "edge": 69.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.155,
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-05",
+      "id": "3325249",
+      "question": "National Bank Open: Titouan Droguet vs Felix Auger-Aliassime",
+      "edge": 67.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.495,
+      "url": "https://polymarket.com/event/atp-droguet-augeral-2026-08-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-05",
+      "id": "3347692",
+      "question": "National Bank Open: Raphael Collignon vs Alexei Popyrin",
+      "edge": 67.2,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.095,
+      "url": "https://polymarket.com/event/atp-collign-popyrin-2026-08-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
