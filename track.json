@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-06",
+  "updatedAt": "2026-08-07",
   "summary": {
-    "logged": 260,
+    "logged": 265,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2795,7 +2795,7 @@
     {
       "date": "2026-07-31",
       "id": "2990291",
-      "question": "Will Atlético San Luis win on 2026-07-31?",
+      "question": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
       "edge": 75.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.435,
@@ -3124,6 +3124,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.385,
       "url": "https://polymarket.com/event/lec-caz-phi-2026-08-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-07",
+      "id": "3276451",
+      "question": "LoL: T1 vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
+      "edge": 77.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/lol-t1-hle1-2026-08-08?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-07",
+      "id": "3386451",
+      "question": "Baltimore Orioles vs. Texas Rangers: O/U 8.5",
+      "edge": 76.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.385,
+      "url": "https://polymarket.com/event/mlb-bal-tex-2026-08-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-07",
+      "id": "3354159",
+      "question": "LoL: FURIA Esports vs LOUD (BO3) - CBLOL Regular Season",
+      "edge": 74.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.575,
+      "url": "https://polymarket.com/event/lol-fur-lll-2026-08-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-07",
+      "id": "3374374",
+      "question": "National Bank Open: Botic van de Zandschulp vs Hubert Hurkacz",
+      "edge": 73.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.508,
+      "url": "https://polymarket.com/event/atp-zandsch-hurkacz-2026-08-07?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-07",
+      "id": "3382768",
+      "question": "Bitcoin Up or Down on August 8?",
+      "edge": 71.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.555,
+      "url": "https://polymarket.com/event/bitcoin-up-or-down-on-august-8-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
