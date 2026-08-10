@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-09",
+  "updatedAt": "2026-08-10",
   "summary": {
-    "logged": 275,
+    "logged": 280,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -3304,6 +3304,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.21,
       "url": "https://polymarket.com/event/mlb-min-mil-2026-08-09?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-10",
+      "id": "3338681",
+      "question": "Will the price of Bitcoin be above $66,000 on August 11?",
+      "edge": 82,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0235,
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-11-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-10",
+      "id": "3463447",
+      "question": "Kansas City Royals vs. Los Angeles Dodgers: O/U 7.5",
+      "edge": 77.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.455,
+      "url": "https://polymarket.com/event/mlb-kc-lad-2026-08-10?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-10",
+      "id": "3409360",
+      "question": "LoL: Leviatan Esports vs RED Canids (BO3) - CBLOL Regular Season",
+      "edge": 77.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.145,
+      "url": "https://polymarket.com/event/lol-lev-red-2026-08-10?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-10",
+      "id": "3253754",
+      "question": "Will Elon Musk post 160-179 tweets from August 4 to August 11, 2026?",
+      "edge": 75.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.485,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-4-august-11?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-10",
+      "id": "3468907",
+      "question": "Houston Astros vs. San Francisco Giants: O/U 8.5",
+      "edge": 75,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.475,
+      "url": "https://polymarket.com/event/mlb-hou-sf-2026-08-10?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
