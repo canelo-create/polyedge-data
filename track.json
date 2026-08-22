@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-22",
   "summary": {
-    "logged": 285,
+    "logged": 290,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -3424,6 +3424,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.415,
       "url": "https://polymarket.com/event/dota2-ironwi-boombo-2026-08-20?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-22",
+      "id": "3738185",
+      "question": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In",
+      "edge": 81.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.155,
+      "url": "https://polymarket.com/event/val-bst1-g21-2026-08-22?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-22",
+      "id": "3716063",
+      "question": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season",
+      "edge": 75.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.485,
+      "url": "https://polymarket.com/event/lol-dsg-dig-2026-08-22?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-22",
+      "id": "3654002",
+      "question": "Will Ethereum reach $2,600 August 17-23?",
+      "edge": 74.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0495,
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-august-17-23-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-22",
+      "id": "3591622",
+      "question": "LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group",
+      "edge": 74.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.515,
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-08-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-22",
+      "id": "3756062",
+      "question": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
+      "edge": 73.6,
+      "play": "MOMENTUM",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
