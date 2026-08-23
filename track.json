@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-23",
   "summary": {
-    "logged": 290,
+    "logged": 295,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -3484,6 +3484,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.505,
       "url": "https://polymarket.com/event/wta-pegula-swiatek-2026-08-22?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-23",
+      "id": "3701479",
+      "question": "LoL: Disguised vs Sentinels - Game 2 Winner",
+      "edge": 83.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.021,
+      "url": "https://polymarket.com/event/lol-dsg-sen-2026-08-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-23",
+      "id": "3667734",
+      "question": "San Francisco Giants vs. Boston Red Sox",
+      "edge": 81.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.165,
+      "url": "https://polymarket.com/event/mlb-sf-bos-2026-08-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-23",
+      "id": "3667738",
+      "question": "Pittsburgh Pirates vs. Los Angeles Dodgers",
+      "edge": 81.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/mlb-pit-lad-2026-08-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-23",
+      "id": "3667728",
+      "question": "Athletics vs. Houston Astros",
+      "edge": 68.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.7745,
+      "url": "https://polymarket.com/event/mlb-oak-hou-2026-08-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-23",
+      "id": "3667744",
+      "question": "Cincinnati Reds vs. Arizona Diamondbacks",
+      "edge": 68.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.785,
+      "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
