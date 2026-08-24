@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "summary": {
-    "logged": 295,
+    "logged": 300,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -3544,6 +3544,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.785,
       "url": "https://polymarket.com/event/mlb-cin-ari-2026-08-23?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-24",
+      "id": "3821451",
+      "question": "Cincinnati Reds vs. San Francisco Giants: O/U 7.5",
+      "edge": 75.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.465,
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-24",
+      "id": "3595817",
+      "question": "Will Elon Musk post 300-319 tweets from August 18 to August 25, 2026?",
+      "edge": 74.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.024,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-18-august-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-24",
+      "id": "3792997",
+      "question": "Monterrey Open: Camila Osorio vs Ann Li",
+      "edge": 70.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.345,
+      "url": "https://polymarket.com/event/wta-osorio-annli-2026-08-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-24",
+      "id": "3506061",
+      "question": "Golden State Valkyries vs. Minnesota Lynx",
+      "edge": 70.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.325,
+      "url": "https://polymarket.com/event/wnba-gsv-min-2026-08-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-24",
+      "id": "3792979",
+      "question": "Philadelphia: Talia Gibson vs Lizette Cabrera",
+      "edge": 68.6,
+      "play": "MOMENTUM",
+      "impliedProb": 0.71,
+      "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
