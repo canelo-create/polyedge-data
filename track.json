@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-24",
+  "updatedAt": "2026-08-26",
   "summary": {
-    "logged": 300,
+    "logged": 305,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -3604,6 +3604,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.71,
       "url": "https://polymarket.com/event/wta-gibson-cabrera-2026-08-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-26",
+      "id": "3743586",
+      "question": "Chicago Cubs vs. Arizona Diamondbacks",
+      "edge": 83.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.215,
+      "url": "https://polymarket.com/event/mlb-chc-ari-2026-08-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-26",
+      "id": "3743595",
+      "question": "Pittsburgh Pirates vs. San Diego Padres",
+      "edge": 82.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.165,
+      "url": "https://polymarket.com/event/mlb-pit-sd-2026-08-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-26",
+      "id": "3743588",
+      "question": "Cincinnati Reds vs. San Francisco Giants",
+      "edge": 81.6,
+      "play": "MOMENTUM",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/mlb-cin-sf-2026-08-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-26",
+      "id": "3895909",
+      "question": "Counter-Strike: Team Nemesis vs 1WIN - Map 2 Winner",
+      "edge": 72.8,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.05,
+      "url": "https://polymarket.com/event/cs2-nem-1win-2026-08-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-26",
+      "id": "3682192",
+      "question": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
+      "edge": 71.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.475,
+      "url": "https://polymarket.com/event/cs2-lgc-fut-2026-08-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
