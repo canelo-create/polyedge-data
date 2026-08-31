@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "summary": {
-    "logged": 325,
+    "logged": 330,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -3904,6 +3904,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.515,
       "url": "https://polymarket.com/event/val-lev1-g21-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-31",
+      "id": "3953844",
+      "question": "Will Bitcoin reach $80,000 in August?",
+      "edge": 81.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.09,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-31",
+      "id": "3943935",
+      "question": "US Open WTA: Katie Volynets vs Linda Noskova",
+      "edge": 79.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0205,
+      "url": "https://polymarket.com/event/wta-volynet-noskova-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-31",
+      "id": "3945845",
+      "question": "US Open ATP: Yannick Hanfmann vs Alejandro Tabilo",
+      "edge": 78.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.022,
+      "url": "https://polymarket.com/event/atp-hanfman-tabilo-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-31",
+      "id": "3772731",
+      "question": "Will Elon Musk post 140-159 tweets from August 25 to September 1, 2026?",
+      "edge": 72.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.1455,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-august-25-september-1-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-08-31",
+      "id": "3962599",
+      "question": "US Open ATP: Dalibor Svrcina vs Valentin Royer",
+      "edge": 68,
+      "play": "MOMENTUM",
+      "impliedProb": 0.78,
+      "url": "https://polymarket.com/event/atp-svrcina-royer-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
