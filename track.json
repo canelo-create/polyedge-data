@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-01",
   "summary": {
-    "logged": 330,
+    "logged": 335,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2795,7 +2795,7 @@
     {
       "date": "2026-07-31",
       "id": "2990291",
-      "question": "Will Atlético San Luis win on 2026-07-31?",
+      "question": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
       "edge": 75.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.435,
@@ -3827,7 +3827,7 @@
     {
       "date": "2026-08-29",
       "id": "3656640",
-      "question": "Will Málaga CF win on 2026-08-30?",
+      "question": "Will M\u00e1laga CF win on 2026-08-30?",
       "edge": 75.5,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0335,
@@ -3899,7 +3899,7 @@
     {
       "date": "2026-08-30",
       "id": "3988520",
-      "question": "Valorant: Leviatán Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs",
+      "question": "Valorant: Leviat\u00e1n Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs",
       "edge": 72.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.515,
@@ -3964,6 +3964,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.78,
       "url": "https://polymarket.com/event/atp-svrcina-royer-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3945849",
+      "question": "US Open ATP: Arthur Fery vs Lorenzo Musetti",
+      "edge": 79.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.065,
+      "url": "https://polymarket.com/event/atp-fery-musetti-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3944001",
+      "question": "US Open WTA: Kaitlin Quevedo vs Elise Mertens",
+      "edge": 74.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.08,
+      "url": "https://polymarket.com/event/wta-quevedo-mertens-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3962613",
+      "question": "US Open ATP: Nishesh Basavareddy vs Tristan Schoolkate",
+      "edge": 71.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.375,
+      "url": "https://polymarket.com/event/atp-basavar-schoolk-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "4045051",
+      "question": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
+      "edge": 71.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.575,
+      "url": "https://polymarket.com/event/cs2-fal2-g2-2026-09-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "4000248",
+      "question": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+      "edge": 70.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.655,
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-09-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
