@@ -2,7 +2,7 @@
   "startedAt": "2026-05-19",
   "updatedAt": "2026-09-01",
   "summary": {
-    "logged": 335,
+    "logged": 340,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Cura\u00e7ao win on 2026-06-14?",
+      "question": "Will Curaçao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will T\u00fcrkiye win on 2026-06-14?",
+      "question": "Will Türkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2795,7 +2795,7 @@
     {
       "date": "2026-07-31",
       "id": "2990291",
-      "question": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
+      "question": "Will Atlético San Luis win on 2026-07-31?",
       "edge": 75.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.435,
@@ -3827,7 +3827,7 @@
     {
       "date": "2026-08-29",
       "id": "3656640",
-      "question": "Will M\u00e1laga CF win on 2026-08-30?",
+      "question": "Will Málaga CF win on 2026-08-30?",
       "edge": 75.5,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0335,
@@ -3899,7 +3899,7 @@
     {
       "date": "2026-08-30",
       "id": "3988520",
-      "question": "Valorant: Leviat\u00e1n Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs",
+      "question": "Valorant: Leviatán Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs",
       "edge": 72.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.515,
@@ -4024,6 +4024,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.655,
       "url": "https://polymarket.com/event/lol-hle1-t1-2026-09-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3901963",
+      "question": "Athletics vs. Texas Rangers",
+      "edge": 80.6,
+      "play": "MOMENTUM",
+      "impliedProb": 0.185,
+      "url": "https://polymarket.com/event/mlb-oak-tex-2026-09-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3943983",
+      "question": "US Open WTA: Daria Kasatkina vs Paula Badosa",
+      "edge": 80.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.145,
+      "url": "https://polymarket.com/event/wta-kasatki-badosa-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3943969",
+      "question": "US Open WTA: Tatjana Maria vs Jelena Ostapenko",
+      "edge": 79.3,
+      "play": "MOMENTUM",
+      "impliedProb": 0.165,
+      "url": "https://polymarket.com/event/wta-maria-ostapen-2026-08-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "4018962",
+      "question": "US Open ATP: Juan Manuel Cerundolo vs Arthur Gea",
+      "edge": 78.3,
+      "play": "MOMENTUM",
+      "impliedProb": 0.22,
+      "url": "https://polymarket.com/event/atp-cerund-gea-2026-09-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-01",
+      "id": "3962584",
+      "question": "Will Grand Theft Auto VI Extended Look get between 20 and 22 million views on week 1?",
+      "edge": 70.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.18,
+      "url": "https://polymarket.com/event/of-views-of-grand-theft-auto-vi-extended-look-on-week-1?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
