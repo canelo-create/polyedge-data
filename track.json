@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-04",
   "summary": {
-    "logged": 340,
+    "logged": 345,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -4084,6 +4084,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.18,
       "url": "https://polymarket.com/event/of-views-of-grand-theft-auto-vi-extended-look-on-week-1?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-04",
+      "id": "3829931",
+      "question": "Will Chelsea FC win on 2026-09-06?",
+      "edge": 80.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.205,
+      "url": "https://polymarket.com/event/epl-ars-che-2026-09-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-04",
+      "id": "3788935",
+      "question": "UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)",
+      "edge": 76.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.195,
+      "url": "https://polymarket.com/event/ufc-dan6-salpar-2026-09-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-04",
+      "id": "3829899",
+      "question": "Will Manchester United FC win on 2026-09-06?",
+      "edge": 73.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.455,
+      "url": "https://polymarket.com/event/epl-eve-mun-2026-09-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-04",
+      "id": "616903",
+      "question": "Will 1 Fed rate cut happen in 2026?",
+      "edge": 67.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0415,
+      "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-04",
+      "id": "1163699",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "edge": 67.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.145,
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
