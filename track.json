@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-05",
   "summary": {
-    "logged": 345,
+    "logged": 350,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -4144,6 +4144,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.145,
       "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-05",
+      "id": "4233602",
+      "question": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+      "edge": 69.8,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.165,
+      "url": "https://polymarket.com/event/atp-paul-alcaraz-2026-09-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-05",
+      "id": "4207670",
+      "question": "US Open ATP: Jakub Mensik vs Learner Tien",
+      "edge": 69.3,
+      "play": "MOMENTUM",
+      "impliedProb": 0.685,
+      "url": "https://polymarket.com/event/atp-mensik-tien-2026-09-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-05",
+      "id": "3418172",
+      "question": "Will Pierre Gasly win the 2026 F1 Italian Grand Prix?",
+      "edge": 66.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.043,
+      "url": "https://polymarket.com/event/f1-italian-grand-prix-winner-2026-09-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-05",
+      "id": "559655",
+      "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+      "edge": 65.6,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0585,
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-05",
+      "id": "2730675",
+      "question": "Iran leadership change by September 30?",
+      "edge": 65.1,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0285,
+      "url": "https://polymarket.com/event/iran-leadership-change-by?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
