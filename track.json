@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-09",
   "summary": {
-    "logged": 360,
+    "logged": 365,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -4324,6 +4324,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0465,
       "url": "https://polymarket.com/event/2026-mens-us-open-winner-tennis?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-09",
+      "id": "1088475",
+      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "edge": 77.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/2026-mens-us-open-winner-tennis?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-09",
+      "id": "3340157",
+      "question": "Spread: Rams (-3.5)",
+      "edge": 75.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/nfl-sf-la-2026-09-11?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-09",
+      "id": "4360562",
+      "question": "Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo",
+      "edge": 74.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.16,
+      "url": "https://polymarket.com/event/atp-miyoshi-peliwo-2026-09-08?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-09",
+      "id": "4050686",
+      "question": "Will Elon Musk post 140-159 tweets from September 4 to September 11, 2026?",
+      "edge": 74.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.1175,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-september-4-september-11-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-09",
+      "id": "4362621",
+      "question": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+      "edge": 69.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.485,
+      "url": "https://polymarket.com/event/lol-al-ig1-2026-09-12?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
