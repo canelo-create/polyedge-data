@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "summary": {
-    "logged": 370,
+    "logged": 375,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -4444,6 +4444,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.465,
       "url": "https://polymarket.com/event/mlb-sea-oak-2026-09-11?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-12",
+      "id": "3956904",
+      "question": "Iran-Oman Hormuz Agreement by September 14?",
+      "edge": 72.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.295,
+      "url": "https://polymarket.com/event/iran-oman-hormuz-management-agreement-byptptpt-20260804222725871",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-12",
+      "id": "561234",
+      "question": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "edge": 68.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.1305,
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-12",
+      "id": "663583",
+      "question": "Will the Iranian regime fall before 2027?",
+      "edge": 64,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.075,
+      "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-12",
+      "id": "1126504",
+      "question": "Will the US acquire part of Greenland in 2026?",
+      "edge": 63.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0345,
+      "url": "https://polymarket.com/event/will-the-us-acquire-any-part-of-greenland-in-2026",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-12",
+      "id": "2252244",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "edge": 62.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.205,
+      "url": "https://polymarket.com/event/fed-decision-in-september-762",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
