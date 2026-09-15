@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-14",
   "summary": {
-    "logged": 375,
+    "logged": 380,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -4504,6 +4504,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.205,
       "url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-14",
+      "id": "2252244",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "edge": 74.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.125,
+      "url": "https://polymarket.com/event/fed-decision-in-september-762?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-14",
+      "id": "1163699",
+      "question": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "edge": 73,
+      "play": "MOMENTUM",
+      "impliedProb": 0.205,
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-14",
+      "id": "4363835",
+      "question": "Miami Marlins vs. Arizona Diamondbacks",
+      "edge": 68.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.835,
+      "url": "https://polymarket.com/event/mlb-mia-ari-2026-09-14?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-14",
+      "id": "4451521",
+      "question": "Houthis enter Aden by September 30, 2026?",
+      "edge": 67.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.135,
+      "url": "https://polymarket.com/event/houthis-enter-aden-byptptpt?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-14",
+      "id": "1357386",
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "edge": 66.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0915,
+      "url": "https://polymarket.com/event/pro-football-2027-champion-20260729185915366?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
