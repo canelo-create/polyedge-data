@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-19",
   "summary": {
-    "logged": 395,
+    "logged": 400,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -4744,6 +4744,66 @@
       "play": "DEEP LIQUIDITY",
       "impliedProb": 0.205,
       "url": "https://polymarket.com/event/wta-jiaqiwa-kulikov-2026-09-18?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-19",
+      "id": "4384969",
+      "question": "Spread: KC (-5.5)",
+      "edge": 77.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.495,
+      "url": "https://polymarket.com/event/nfl-ind-kc-2026-09-21?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-19",
+      "id": "4525106",
+      "question": "Minnesota Twins vs. Los Angeles Angels",
+      "edge": 68.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.665,
+      "url": "https://polymarket.com/event/mlb-min-laa-2026-09-19?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-19",
+      "id": "4525102",
+      "question": "Miami Marlins vs. San Diego Padres",
+      "edge": 68,
+      "play": "MOMENTUM",
+      "impliedProb": 0.235,
+      "url": "https://polymarket.com/event/mlb-mia-sd-2026-09-19?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-19",
+      "id": "562803",
+      "question": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "edge": 66.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.075,
+      "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-19",
+      "id": "2771328",
+      "question": "Will Brighton win the 2026-27 English Premier League (EPL) Championship?",
+      "edge": 66.1,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0215,
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
