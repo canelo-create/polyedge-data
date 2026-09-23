@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-22",
   "summary": {
-    "logged": 405,
+    "logged": 410,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -4864,6 +4864,66 @@
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.135,
       "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-22",
+      "id": "4464920",
+      "question": "Will Norway win on 2026-09-24?",
+      "edge": 72.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.555,
+      "url": "https://polymarket.com/event/unl-nor-den-2026-09-24?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-22",
+      "id": "3701439",
+      "question": "Falcons vs. Packers: O/U 44.5",
+      "edge": 71.6,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.455,
+      "url": "https://polymarket.com/event/nfl-atl-gb-2026-09-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-22",
+      "id": "4613542",
+      "question": "Los Angeles Angels vs. Athletics",
+      "edge": 68.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.6505,
+      "url": "https://polymarket.com/event/mlb-laa-oak-2026-09-22?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-22",
+      "id": "4806516",
+      "question": "Ole Miss vs. Florida",
+      "edge": 67.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.425,
+      "url": "https://polymarket.com/event/cfb-miss-fl-2026-09-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-22",
+      "id": "4761826",
+      "question": "Ankara: Solana Sierra vs Deniz Dilek",
+      "edge": 67.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.57,
+      "url": "https://polymarket.com/event/wta-sierra-dilek-2026-09-22?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
