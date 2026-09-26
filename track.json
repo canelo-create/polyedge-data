@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "summary": {
-    "logged": 420,
+    "logged": 425,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -5044,6 +5044,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.455,
       "url": "https://polymarket.com/event/cfb-flatl-lamon-2026-09-26?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-25",
+      "id": "3701405",
+      "question": "Spread: Panthers (-2.5)",
+      "edge": 77.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.485,
+      "url": "https://polymarket.com/event/nfl-car-cle-2026-09-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-25",
+      "id": "4855332",
+      "question": "Spread: Bills (-7.5)",
+      "edge": 76.5,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.495,
+      "url": "https://polymarket.com/event/nfl-lac-buf-2026-09-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-25",
+      "id": "4723686",
+      "question": "Houston Astros vs. Athletics",
+      "edge": 76.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.18,
+      "url": "https://polymarket.com/event/mlb-hou-oak-2026-09-25?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-25",
+      "id": "4855869",
+      "question": "Spread: 49ers (-8.5)",
+      "edge": 76.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.475,
+      "url": "https://polymarket.com/event/nfl-ari-sf-2026-09-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-25",
+      "id": "4852138",
+      "question": "Spread: Seahawks (-7.5)",
+      "edge": 75.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.505,
+      "url": "https://polymarket.com/event/nfl-sea-was-2026-09-27?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
