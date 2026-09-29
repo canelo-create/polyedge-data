@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "summary": {
-    "logged": 435,
+    "logged": 440,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -5224,6 +5224,66 @@
       "play": "MOMENTUM",
       "impliedProb": 0.505,
       "url": "https://polymarket.com/event/crint-ind-afg-2026-09-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-28",
+      "id": "4867450",
+      "question": "Next US-Iran senior diplomatic meeting by September 30, 2026?",
+      "edge": 80.8,
+      "play": "MOMENTUM",
+      "impliedProb": 0.0625,
+      "url": "https://polymarket.com/event/next-us-iran-senior-diplomatic-meeting-byptptpt?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-28",
+      "id": "5023464",
+      "question": "Jingshan: Tyra Caterina Grant vs Aliona Falei",
+      "edge": 78.3,
+      "play": "MOMENTUM",
+      "impliedProb": 0.065,
+      "url": "https://polymarket.com/event/wta-grant-falei-2026-09-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-28",
+      "id": "4689727",
+      "question": "Will Bitcoin dip to $80,000 in September?",
+      "edge": 74.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.13,
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-september-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-28",
+      "id": "5023462",
+      "question": "Jingshan: Kristina Mladenovic vs Sofia Costoulas",
+      "edge": 72.7,
+      "play": "MOMENTUM",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/wta-mladeno-costoul-2026-09-28?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-28",
+      "id": "4769494",
+      "question": "Trump renames AI by September 30?",
+      "edge": 70.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.555,
+      "url": "https://polymarket.com/event/trump-renames-ai-by-september-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
