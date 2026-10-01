@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-30",
   "summary": {
-    "logged": 440,
+    "logged": 445,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -5284,6 +5284,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.555,
       "url": "https://polymarket.com/event/trump-renames-ai-by-september-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-30",
+      "id": "5029261",
+      "question": "Chicago Cubs vs. San Diego Padres",
+      "edge": 78.1,
+      "play": "MOMENTUM",
+      "impliedProb": 0.045,
+      "url": "https://polymarket.com/event/mlb-chc-sd-2026-09-30?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-30",
+      "id": "4828197",
+      "question": "Will Elon Musk post 160-179 tweets from September 25 to October 2, 2026?",
+      "edge": 73.8,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0375,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-september-25-october-2-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-30",
+      "id": "5071556",
+      "question": "Japan Open Tennis Championships: Kei Nishikori vs Frances Tiafoe",
+      "edge": 72.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.165,
+      "url": "https://polymarket.com/event/atp-nishiko-tiafoe-2026-09-29?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-30",
+      "id": "3871418",
+      "question": "Cowboys vs. Texans",
+      "edge": 69.8,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.405,
+      "url": "https://polymarket.com/event/nfl-dal-hou-2026-10-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-09-30",
+      "id": "4858968",
+      "question": "Spread: Browns (-3.5)",
+      "edge": 69.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.295,
+      "url": "https://polymarket.com/event/nfl-pit-cle-2026-10-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
