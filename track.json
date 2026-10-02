@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "summary": {
-    "logged": 445,
+    "logged": 450,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -5344,6 +5344,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.295,
       "url": "https://polymarket.com/event/nfl-pit-cle-2026-10-02?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-01",
+      "id": "5152200",
+      "question": "China Open: Janice Tjen vs Diana Shnaider",
+      "edge": 78.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.065,
+      "url": "https://polymarket.com/event/wta-tjen-shnaide-2026-10-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-01",
+      "id": "4818670",
+      "question": "Kentucky vs. South Carolina",
+      "edge": 70.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.415,
+      "url": "https://polymarket.com/event/cfb-uk-sc-2026-10-03?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-01",
+      "id": "5152214",
+      "question": "China Open: Yue Yuan vs Mirra Andreeva",
+      "edge": 70.8,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.115,
+      "url": "https://polymarket.com/event/wta-yuan-andreev-2026-10-01?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-01",
+      "id": "601920",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "edge": 69.6,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.034,
+      "url": "https://polymarket.com/event/will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-01",
+      "id": "1365894",
+      "question": "Will Renan Santos finish in third place in the first round of the 2026 Brazilian presidential election?",
+      "edge": 69.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.615,
+      "url": "https://polymarket.com/event/brazil-presidential-election-first-round-3rd-place?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
