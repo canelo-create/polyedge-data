@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "summary": {
-    "logged": 455,
+    "logged": 460,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -5464,6 +5464,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.525,
       "url": "https://polymarket.com/event/nfl-den-sf-2026-10-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-03",
+      "id": "1365854",
+      "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+      "edge": 79.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.3965,
+      "url": "https://polymarket.com/event/brazil-presidential-election-first-round-2nd-place?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-03",
+      "id": "1366008",
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 5\u201310%?",
+      "edge": 76.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.125,
+      "url": "https://polymarket.com/event/brazil-presidential-election-first-round-margin-of-victory?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-03",
+      "id": "5179198",
+      "question": "Will Indiana enact a data center moratorium by December 31, 2028?",
+      "edge": 74.4,
+      "play": "MOMENTUM",
+      "impliedProb": 0.155,
+      "url": "https://polymarket.com/event/indiana-enacts-data-center-moratorium-by-20260929?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-03",
+      "id": "5179176",
+      "question": "Will Louisiana enact a data center moratorium by December 31, 2028?",
+      "edge": 73.2,
+      "play": "MOMENTUM",
+      "impliedProb": 0.195,
+      "url": "https://polymarket.com/event/louisiana-enacts-data-center-moratorium-by-20260929?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-03",
+      "id": "4037599",
+      "question": "Will Lula win the most votes in the first round of the 2026 Brazil presidential election?",
+      "edge": 71.2,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.615,
+      "url": "https://polymarket.com/event/brazil-presidential-election-first-round-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
