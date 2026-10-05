@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "summary": {
-    "logged": 460,
+    "logged": 465,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -5524,6 +5524,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.615,
       "url": "https://polymarket.com/event/brazil-presidential-election-first-round-winner?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-04",
+      "id": "4970464",
+      "question": "Will Elon Musk post 200-219 tweets from September 29 to October 6, 2026?",
+      "edge": 81.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.069,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-september-29-october-6-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-04",
+      "id": "4877189",
+      "question": "Will Croatia win on 2026-10-06?",
+      "edge": 76.1,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.075,
+      "url": "https://polymarket.com/event/unl-hrv-esp-2026-10-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-04",
+      "id": "3875113",
+      "question": "Spread: Saints (-1.5)",
+      "edge": 75.9,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.495,
+      "url": "https://polymarket.com/event/nfl-atl-no-2026-10-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-04",
+      "id": "5228453",
+      "question": "China Open: Donna Vekic vs Iga Swiatek",
+      "edge": 69.9,
+      "play": "MOMENTUM",
+      "impliedProb": 0.705,
+      "url": "https://polymarket.com/event/wta-vekic-swiatek-2026-10-04?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-04",
+      "id": "5276808",
+      "question": "Shanghai Rolex Masters, Qualification: Alex Bolt vs Lloyd Harris",
+      "edge": 66.9,
+      "play": "STABLE",
+      "impliedProb": 0.215,
+      "url": "https://polymarket.com/event/atp-bolt-harri-2026-10-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
