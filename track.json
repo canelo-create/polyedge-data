@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "summary": {
-    "logged": 470,
+    "logged": 475,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -5644,6 +5644,66 @@
       "play": "DEEP LIQUIDITY",
       "impliedProb": 0.208,
       "url": "https://polymarket.com/event/presidential-election-winner-2028?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-06",
+      "id": "5175499",
+      "question": "Milwaukee Brewers vs. San Diego Padres",
+      "edge": 80.5,
+      "play": "MOMENTUM",
+      "impliedProb": 0.185,
+      "url": "https://polymarket.com/event/mlb-mil-sd-2026-10-06?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-06",
+      "id": "5287847",
+      "question": "Samsun: Cagla Buyukakcay vs Linda Klimovicova",
+      "edge": 72.3,
+      "play": "MOMENTUM",
+      "impliedProb": 0.08,
+      "url": "https://polymarket.com/event/wta-buyukak-klimovi-2026-10-05?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-06",
+      "id": "5114439",
+      "question": "Will Elon Musk post 120-139 tweets from October 2 to October 9, 2026?",
+      "edge": 69.1,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.027,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-october-2-october-9-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-06",
+      "id": "5009117",
+      "question": "Will Manchester United FC win on 2026-10-10?",
+      "edge": 68.4,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.575,
+      "url": "https://polymarket.com/event/epl-mun-tot-2026-10-10?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-06",
+      "id": "5009042",
+      "question": "Will Brighton & Hove Albion FC win on 2026-10-10?",
+      "edge": 67.7,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.415,
+      "url": "https://polymarket.com/event/epl-sun-bri-2026-10-10?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
