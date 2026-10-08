@@ -1,8 +1,8 @@
 {
   "startedAt": "2026-05-19",
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "summary": {
-    "logged": 475,
+    "logged": 480,
     "resolved": 115,
     "favoriteResolved": 35,
     "calibrationPct": 30
@@ -923,7 +923,7 @@
     {
       "date": "2026-06-05",
       "id": "947289",
-      "question": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "edge": 77.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.3845,
@@ -1415,7 +1415,7 @@
     {
       "date": "2026-06-13",
       "id": "1897060",
-      "question": "Will Curaçao win on 2026-06-14?",
+      "question": "Will Cura\u00e7ao win on 2026-06-14?",
       "edge": 76.4,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0235,
@@ -1427,7 +1427,7 @@
     {
       "date": "2026-06-13",
       "id": "1897057",
-      "question": "Will Türkiye win on 2026-06-14?",
+      "question": "Will T\u00fcrkiye win on 2026-06-14?",
       "edge": 73.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.575,
@@ -2123,7 +2123,7 @@
     {
       "date": "2026-07-19",
       "id": "2431009",
-      "question": "Will Kylian Mbappé win the Golden Ball at the 2026 FIFA World Cup?",
+      "question": "Will Kylian Mbapp\u00e9 win the Golden Ball at the 2026 FIFA World Cup?",
       "edge": 71.3,
       "play": "MOMENTUM",
       "impliedProb": 0.0635,
@@ -2795,7 +2795,7 @@
     {
       "date": "2026-07-31",
       "id": "2990291",
-      "question": "Will Atlético San Luis win on 2026-07-31?",
+      "question": "Will Atl\u00e9tico San Luis win on 2026-07-31?",
       "edge": 75.9,
       "play": "CLOSING SOON",
       "impliedProb": 0.435,
@@ -3827,7 +3827,7 @@
     {
       "date": "2026-08-29",
       "id": "3656640",
-      "question": "Will Málaga CF win on 2026-08-30?",
+      "question": "Will M\u00e1laga CF win on 2026-08-30?",
       "edge": 75.5,
       "play": "LONGSHOT HEAT",
       "impliedProb": 0.0335,
@@ -3899,7 +3899,7 @@
     {
       "date": "2026-08-30",
       "id": "3988520",
-      "question": "Valorant: Leviatán Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs",
+      "question": "Valorant: Leviat\u00e1n Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs",
       "edge": 72.1,
       "play": "CLOSING SOON",
       "impliedProb": 0.515,
@@ -5471,7 +5471,7 @@
     {
       "date": "2026-10-03",
       "id": "1365854",
-      "question": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+      "question": "Will Luiz In\u00e1cio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
       "edge": 79.7,
       "play": "CLOSING SOON",
       "impliedProb": 0.3965,
@@ -5483,7 +5483,7 @@
     {
       "date": "2026-10-03",
       "id": "1366008",
-      "question": "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by 5–10%?",
+      "question": "Will Luiz In\u00e1cio Lula da Silva win the first round of the 2026 Brazilian presidential election by 5\u201310%?",
       "edge": 76.4,
       "play": "CLOSING SOON",
       "impliedProb": 0.125,
@@ -5627,7 +5627,7 @@
     {
       "date": "2026-10-05",
       "id": "2695678",
-      "question": "Will Pedro Sánchez be the next Prime Minister of Spain?",
+      "question": "Will Pedro S\u00e1nchez be the next Prime Minister of Spain?",
       "edge": 67.9,
       "play": "MOMENTUM",
       "impliedProb": 0.1765,
@@ -5704,6 +5704,66 @@
       "play": "CLOSING SOON",
       "impliedProb": 0.415,
       "url": "https://polymarket.com/event/epl-sun-bri-2026-10-10?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-07",
+      "id": "5114482",
+      "question": "Will Elon Musk post 280-299 tweets from October 2 to October 9, 2026?",
+      "edge": 81.3,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.1645,
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-october-2-october-9-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-07",
+      "id": "3951230",
+      "question": "Buccaneers vs. Cowboys",
+      "edge": 80.1,
+      "play": "CLOSING SOON",
+      "impliedProb": 0.195,
+      "url": "https://polymarket.com/event/nfl-tb-dal-2026-10-09?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-07",
+      "id": "561234",
+      "question": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "edge": 66.4,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0695,
+      "url": "https://polymarket.com/event/presidential-election-winner-2028?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-07",
+      "id": "5340154",
+      "question": "Plague pandemic in 2026?",
+      "edge": 65.9,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0385,
+      "url": "https://polymarket.com/event/plague-pandemic-in-2026?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
+      "resolved": false,
+      "outcome": null,
+      "favoriteCorrect": null
+    },
+    {
+      "date": "2026-10-07",
+      "id": "560317",
+      "question": "Putin out as President of Russia by December 31, 2026?",
+      "edge": 65.5,
+      "play": "LONGSHOT HEAT",
+      "impliedProb": 0.0315,
+      "url": "https://polymarket.com/event/putin-out-before-2027?via=0x68324816eCcf3299359D19ce7484F211a88aaf80",
       "resolved": false,
       "outcome": null,
       "favoriteCorrect": null
